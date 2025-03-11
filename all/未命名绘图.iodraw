@@ -38,6 +38,23 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-8" value="lt_rx_proc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-7">
           <mxGeometry y="5" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="329.76" as="sourcePoint" />
+            <mxPoint x="210" y="329.76" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="329.76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-10" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="80" height="40" as="geometry">
+            <mxRectangle x="80" y="300" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-11" value="lt_rx_proc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-10">
+          <mxGeometry y="5" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
