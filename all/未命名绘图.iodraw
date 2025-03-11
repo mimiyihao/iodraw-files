@@ -108,12 +108,6 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-28" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;stokeWidth=1;dashed=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" vertex="1" connectable="0" parent="5hxx7TOuMHt9GqfPNMU6-27">
           <mxGeometry y="-20" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-34" value="Item" style="shape=partialRectangle;fillColor=none;align=left;verticalAlign=middle;strokeColor=none;spacingLeft=34;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="30" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-35" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;stokeWidth=1;dashed=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;flipH=0;flipV=1;" vertex="1" connectable="0" parent="5hxx7TOuMHt9GqfPNMU6-34">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
