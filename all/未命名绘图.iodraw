@@ -69,7 +69,7 @@
             <mxRectangle x="80" y="300" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-14" value="lt_map" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-13">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-14" value="lt_rx2tx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-13">
           <mxGeometry x="10" y="5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
