@@ -146,8 +146,8 @@
             <mxRectangle x="80" y="300" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-79" value="lt_rx_proc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-78">
-          <mxGeometry y="5" width="80" height="30" as="geometry" />
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-79" value="lt_tx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-78">
+          <mxGeometry x="15" y="5" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
