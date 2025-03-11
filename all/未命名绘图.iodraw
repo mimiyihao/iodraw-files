@@ -163,6 +163,20 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-82" value="lt_tx_out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-81">
           <mxGeometry x="5" y="5" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="594" as="sourcePoint" />
+            <mxPoint x="530" y="594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-84" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="575" width="80" height="40" as="geometry">
+            <mxRectangle x="80" y="300" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-85" value="lt_tx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-84">
+          <mxGeometry x="15" y="5" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
