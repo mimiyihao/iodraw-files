@@ -4,14 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="80" height="40" as="geometry">
-            <mxRectangle x="80" y="300" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-3" value="lt_rx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-1">
-          <mxGeometry x="15" y="5" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="320" as="sourcePoint" />
@@ -97,7 +89,7 @@
           <mxGeometry x="330" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="530" height="60" as="geometry" />
+          <mxGeometry x="65" y="420" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
