@@ -351,7 +351,7 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-136" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;octl_training_tx_dat&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="15" y="550" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-138" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-138" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4" y="650" as="sourcePoint" />
             <mxPoint x="220" y="610" as="targetPoint" />
@@ -360,7 +360,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-140" value="" style="endArrow=none;html=1;rounded=0;flowAnimation=0;" edge="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-140" value="" style="endArrow=none;html=1;rounded=0;flowAnimation=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4" y="650.5" as="sourcePoint" />
             <mxPoint x="4" y="610" as="targetPoint" />
