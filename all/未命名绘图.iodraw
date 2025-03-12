@@ -286,10 +286,10 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-117" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;octl_rx_locked&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="430" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.447;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5hxx7TOuMHt9GqfPNMU6-96">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-119" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.447;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1.8" y="450" as="sourcePoint" />
-            <mxPoint x="8.199999999999978" y="490.00000000000006" as="targetPoint" />
+            <mxPoint x="4.73" y="450" as="sourcePoint" />
+            <mxPoint x="5.279999999999909" y="489.84000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-121" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;octl_newframe&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
