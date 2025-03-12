@@ -332,13 +332,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-133" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-133" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30.1" y="529.92" as="sourcePoint" />
             <mxPoint x="85.00000000000009" y="529.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.002;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="560" as="sourcePoint" />
             <mxPoint x="84.90000000000009" y="560" as="targetPoint" />
@@ -348,7 +348,7 @@
           <mxGeometry x="110" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-136" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;octl_training_tx_dat&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="550" width="80" height="30" as="geometry" />
+          <mxGeometry x="15" y="570" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
