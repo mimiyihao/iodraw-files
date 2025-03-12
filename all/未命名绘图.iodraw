@@ -255,7 +255,7 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="465" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.505;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5hxx7TOuMHt9GqfPNMU6-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="450.72" as="sourcePoint" />
             <mxPoint x="-80" y="490" as="targetPoint" />
@@ -300,16 +300,6 @@
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-124" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;6个stat用于判断状态转换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="450" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.465;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5hxx7TOuMHt9GqfPNMU6-110">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="450.72" as="sourcePoint" />
-            <mxPoint x="-80" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-80" y="450" />
-              <mxPoint x="-80" y="480" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
