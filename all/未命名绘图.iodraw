@@ -422,7 +422,7 @@
           <mxGeometry x="360" y="451" width="47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-171" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;5个upd信号、3个ctl信号用于状态转换&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="222" y="456" width="60" height="30" as="geometry" />
+          <mxGeometry x="288" y="588" width="121" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
