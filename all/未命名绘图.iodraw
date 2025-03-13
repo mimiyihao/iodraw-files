@@ -541,6 +541,9 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-202" value="&lt;font color=&quot;#0000ff&quot;&gt;ick_tx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="686" y="383" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-203" value="ick_driver" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-82" y="698" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
