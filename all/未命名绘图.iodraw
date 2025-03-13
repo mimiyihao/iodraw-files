@@ -412,16 +412,6 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-163" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;odat_eth_map_m2s_lt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="411" y="492" width="78" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-164" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.193;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5hxx7TOuMHt9GqfPNMU6-113">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="610" as="sourcePoint" />
-            <mxPoint x="110" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-80" y="638" />
-              <mxPoint x="110" y="638" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
