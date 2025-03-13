@@ -391,7 +391,7 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-155" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;octl_tx_ack&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-109" y="616" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-157" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-157" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;输入寄存器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="329" y="688" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
