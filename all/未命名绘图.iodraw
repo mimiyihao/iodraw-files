@@ -201,8 +201,8 @@
             <mxPoint x="780" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-93" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;odat_pma_tx_data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="710" y="600" width="90" height="30" as="geometry" />
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-93" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;odat_pma_tx_data[127:0]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="602" width="110" height="27" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-94" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="780" width="340" height="160" as="geometry" />
