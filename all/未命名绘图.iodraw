@@ -574,8 +574,8 @@
             <mxPoint x="71" y="737.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-209" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-209" value="ick_eth_map_m2x_anlt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="671" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
