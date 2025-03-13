@@ -581,7 +581,7 @@
           <mxGeometry x="11" y="695" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-212" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ick_tx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2" y="715" width="60" height="30" as="geometry" />
+          <mxGeometry y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-213" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ick_rx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2" y="734" width="60" height="30" as="geometry" />
