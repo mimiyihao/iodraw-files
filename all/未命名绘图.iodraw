@@ -392,7 +392,10 @@
           <mxGeometry x="-109" y="616" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-157" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;输入寄存器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329" y="688" width="60" height="30" as="geometry" />
+          <mxGeometry x="346" y="688" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-158" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;128bit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="601" y="441" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
