@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-59" value="lt_rx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5hxx7TOuMHt9GqfPNMU6-58">
-          <mxGeometry x="-9" y="5" width="50" height="30" as="geometry" />
+          <mxGeometry x="14" y="5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-60" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="430" width="80" height="40" as="geometry">
