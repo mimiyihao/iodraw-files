@@ -631,7 +631,7 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-228" value="&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 6px;&quot;&gt;i_eth_lt_txcoeff&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="213" y="573" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-229" value="&lt;font color=&quot;#c9c900&quot; style=&quot;font-size: 6px;&quot;&gt;i_eth_lt_txremote&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-229" value="&lt;font color=&quot;#b8b800&quot; style=&quot;font-size: 6px;&quot;&gt;i_eth_lt_txremote&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="573" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
