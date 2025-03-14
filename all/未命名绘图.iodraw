@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="s8AEu57pdnQm7T_Agjkz" name="第 1 页">
-    <mxGraphModel dx="1401" dy="338" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="582" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -421,7 +421,7 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-170" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;upd、stat、ctl信号&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="451" width="47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-171" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;生成update和stat中间信号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-171" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;生成update和status中间信号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="289" y="594" width="121" height="17" as="geometry" />
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-172" value="" style="line;strokeWidth=2;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
