@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YkYzieqmAB4AOnVvoPEQ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-89;" vertex="1" parent="1">
-          <mxGeometry x="330.09" y="309.92" width="79.83" height="60" as="geometry" />
+          <mxGeometry x="342" y="311" width="79.83" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YkYzieqmAB4AOnVvoPEQ-11" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ick_tx_block_soc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="124" y="307" width="60" height="30" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="YkYzieqmAB4AOnVvoPEQ-13" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ick_eth_map_m2s_anlt&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="337" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YkYzieqmAB4AOnVvoPEQ-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ictl_scan_testmod_ena_u&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187" y="257" width="60" height="30" as="geometry" />
+        <mxCell id="YkYzieqmAB4AOnVvoPEQ-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ictl_scan_testmode_ena_a&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207" y="257" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
