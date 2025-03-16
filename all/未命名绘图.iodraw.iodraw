@@ -37,14 +37,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YkYzieqmAB4AOnVvoPEQ-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.51;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="YkYzieqmAB4AOnVvoPEQ-10" edge="1">
+        <mxCell id="YkYzieqmAB4AOnVvoPEQ-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.51;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="134" as="sourcePoint" />
-            <mxPoint x="335" y="134" as="targetPoint" />
+            <mxPoint x="294.9" y="134" as="sourcePoint" />
+            <mxPoint x="338.995" y="134.20170000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YkYzieqmAB4AOnVvoPEQ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="339" y="105" width="79.83" height="60" as="geometry" />
+          <mxGeometry x="338" y="106" width="73.83" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YkYzieqmAB4AOnVvoPEQ-11" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ick_tx_block_soc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="125" y="101" width="60" height="30" as="geometry" />
