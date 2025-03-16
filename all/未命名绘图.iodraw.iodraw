@@ -304,7 +304,7 @@
         <mxCell id="QoYW69ZzZ9L1YE0_7_uY-42" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ick_pma_tmr&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="197" y="439" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QoYW69ZzZ9L1YE0_7_uY-43" value="ick&lt;span style=&quot;background-color: initial;&quot;&gt;_reg&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QoYW69ZzZ9L1YE0_7_uY-43" value="ick&lt;span style=&quot;background-color: initial;&quot;&gt;_tmr&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="349" y="458" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QoYW69ZzZ9L1YE0_7_uY-44" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ictl_scan_testmode_ena_a&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
