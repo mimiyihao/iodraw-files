@@ -214,11 +214,8 @@
             <mxPoint x="219" y="1657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QoYW69ZzZ9L1YE0_7_uY-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="QoYW69ZzZ9L1YE0_7_uY-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="320" y="820" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="QoYW69ZzZ9L1YE0_7_uY-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="321" y="821" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
