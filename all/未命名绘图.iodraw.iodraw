@@ -253,6 +253,9 @@
         <mxCell id="QoYW69ZzZ9L1YE0_7_uY-31" value="每隔四位抽取一个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="156" y="779" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QoYW69ZzZ9L1YE0_7_uY-32" value="每隔四位抽取一个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="353.91999999999996" y="843" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
