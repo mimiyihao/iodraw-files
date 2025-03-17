@@ -379,6 +379,9 @@
         <mxCell id="QoYW69ZzZ9L1YE0_7_uY-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="168" y="1841" width="211" height="366" as="geometry" />
         </mxCell>
+        <mxCell id="QoYW69ZzZ9L1YE0_7_uY-106" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;ick_eth_map_&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;m2s_anlt&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="113" width="52" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
