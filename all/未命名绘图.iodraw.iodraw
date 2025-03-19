@@ -452,7 +452,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p7Qu9Nf8ZzeWNErRHYJh-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="421" y="2195" width="20" height="85" as="geometry" />
+          <mxGeometry x="420" y="2321" width="20" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p7Qu9Nf8ZzeWNErRHYJh-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="2237.3" as="sourcePoint" />
+            <mxPoint x="492" y="2237.3" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
