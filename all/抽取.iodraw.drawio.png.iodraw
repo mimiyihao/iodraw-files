@@ -142,6 +142,9 @@
         <mxCell id="RJPAEAMyotRwulOP32q--5" value="control_dec" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="1845" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RJPAEAMyotRwulOP32q--6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;每隔四个抽取一个&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="1839.5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
