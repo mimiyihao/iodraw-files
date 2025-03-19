@@ -460,7 +460,7 @@
             <mxPoint x="490" y="2363.1600000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7Qu9Nf8ZzeWNErRHYJh-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p7Qu9Nf8ZzeWNErRHYJh-26" value="每隔四个抽取一个" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="283" y="1782" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
