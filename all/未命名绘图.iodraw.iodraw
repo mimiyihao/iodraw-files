@@ -433,15 +433,6 @@
             <mxPoint x="490" y="1854.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p7Qu9Nf8ZzeWNErRHYJh-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1813" width="20" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="p7Qu9Nf8ZzeWNErRHYJh-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="444" y="1855.33" as="sourcePoint" />
-            <mxPoint x="491" y="1855.33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
