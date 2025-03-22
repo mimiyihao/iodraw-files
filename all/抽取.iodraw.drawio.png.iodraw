@@ -568,9 +568,6 @@
             <mxPoint x="286" y="393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-147" value="out_init_cond[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="182" y="428" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-149" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-180;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="266" y="493.5" width="20" height="24" as="geometry" />
         </mxCell>
@@ -723,6 +720,12 @@
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-183" value="stat_rx_ready" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="501" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-184" value="upd_m1c[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-185" value="upd_m1c[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="204" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
