@@ -145,6 +145,18 @@
         <mxCell id="d0jGHX4UtqGTKGT8X8nP-5" value="wdat_in" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327" y="2547" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="d0jGHX4UtqGTKGT8X8nP-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="392" y="1812" as="sourcePoint" />
+            <mxPoint x="392" y="1778" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0jGHX4UtqGTKGT8X8nP-7" value="sample" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1753" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0jGHX4UtqGTKGT8X8nP-8" value="control_dec" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="1794" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
