@@ -323,13 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-52" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1191" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-53" value="ctl_coeff_req[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1216" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-54" value="ctl_coeff_sel[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1238" width="60" height="30" as="geometry" />
+          <mxGeometry x="407" y="1191" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-55" value="ctl_coeff_sel[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1263" width="60" height="30" as="geometry" />
@@ -384,6 +378,9 @@
             <mxPoint x="451" y="1566.26" as="sourcePoint" />
             <mxPoint x="482" y="1566.26" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-70" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="1201" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
