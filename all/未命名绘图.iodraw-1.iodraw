@@ -322,6 +322,15 @@
             <mxPoint x="578.5" y="3704.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="d0jGHX4UtqGTKGT8X8nP-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="2614" as="sourcePoint" />
+            <mxPoint x="245" y="2580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d0jGHX4UtqGTKGT8X8nP-72" value="wdat_rx_out" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218" y="2557" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
