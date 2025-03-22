@@ -380,7 +380,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-70" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="417" y="1201" width="60" height="30" as="geometry" />
+          <mxGeometry x="407" y="1213" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-71" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="1238" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
