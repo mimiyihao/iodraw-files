@@ -211,6 +211,9 @@
         <mxCell id="d0jGHX4UtqGTKGT8X8nP-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.39130434782607326;" vertex="1" parent="1">
           <mxGeometry x="497" y="3014" width="20" height="151" as="geometry" />
         </mxCell>
+        <mxCell id="d0jGHX4UtqGTKGT8X8nP-24" value="两两异或" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513" y="3065" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
