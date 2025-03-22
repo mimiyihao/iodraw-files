@@ -367,7 +367,7 @@
             <mxPoint x="504" y="1379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-82" value="1&#39;b1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-82" value="stat_parity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="1364" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
