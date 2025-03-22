@@ -230,10 +230,10 @@
           <mxGeometry x="192" y="1440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-30" value="out_init_cond[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="164" y="1464" width="60" height="30" as="geometry" />
+          <mxGeometry x="162" y="1465" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-31" value="out_init_cond[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1474" width="60" height="30" as="geometry" />
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-31" value="out_init_cond[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1489" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
