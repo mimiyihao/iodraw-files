@@ -384,12 +384,12 @@
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="483" y="1441" as="sourcePoint" />
-            <mxPoint x="514" y="1441" as="targetPoint" />
+            <mxPoint x="473" y="1579" as="sourcePoint" />
+            <mxPoint x="504" y="1579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-88" value="stat_rx_flock" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="417" y="1424" width="60" height="30" as="geometry" />
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-88" value="stat_rx_ready" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="1562" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
