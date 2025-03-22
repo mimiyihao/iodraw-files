@@ -370,20 +370,14 @@
         <mxCell id="J4XyHgvELdXFAuRlmKBI-68" value="1&#39;b1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="1551.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="451" y="1566.26" as="sourcePoint" />
-            <mxPoint x="482" y="1566.26" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-70" value="stat_coeff[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="1213" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-71" value="stat_coeff[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="1238" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-72" value="stat_coeff_sel_echo[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="391" y="1273" width="60" height="30" as="geometry" />
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-72" value="stat_coeff_sel_echo[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="381" y="1289" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
