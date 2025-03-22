@@ -325,7 +325,7 @@
         <mxCell id="J4XyHgvELdXFAuRlmKBI-52" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="1191" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-55" value="ctl_coeff_sel[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-55" value="stat_coeff_sel_echo[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1263" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-56" value="ctl_coeff_sel[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -379,10 +379,10 @@
             <mxPoint x="482" y="1566.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-70" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-70" value="stat_coeff[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="1213" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-71" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-71" value="stat_coeff[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="407" y="1238" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
