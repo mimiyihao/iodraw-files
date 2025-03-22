@@ -364,6 +364,15 @@
         <mxCell id="J4XyHgvELdXFAuRlmKBI-77" value="stat_coeff_sel_echo[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="381" y="1313" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473" y="1354" as="sourcePoint" />
+            <mxPoint x="504" y="1354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-80" value="1&#39;b1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1340" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
