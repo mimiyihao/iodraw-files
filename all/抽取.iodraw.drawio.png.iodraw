@@ -472,7 +472,7 @@
         <mxCell id="J4XyHgvELdXFAuRlmKBI-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="525" y="723" width="20" height="321" as="geometry" />
         </mxCell>
-        <mxCell id="J4XyHgvELdXFAuRlmKBI-119" value="如此反复生成update_pol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J4XyHgvELdXFAuRlmKBI-119" value="如此反复生成update_pol(statue_pol也像这样" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="825" width="60" height="130" as="geometry" />
         </mxCell>
       </root>
