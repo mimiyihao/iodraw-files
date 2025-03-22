@@ -239,15 +239,15 @@
           <mxGeometry x="162" y="1513" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-180;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="243" y="1555" width="20" height="24" as="geometry" />
+          <mxGeometry x="246" y="1554.5" width="20" height="24" as="geometry" />
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-37" value="1&#39;b1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="164" y="1551.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="171" y="1551.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J4XyHgvELdXFAuRlmKBI-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="212" y="1566.3" as="sourcePoint" />
-            <mxPoint x="243" y="1566.3" as="targetPoint" />
+            <mxPoint x="215" y="1566.26" as="sourcePoint" />
+            <mxPoint x="246" y="1566.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
