@@ -510,12 +510,12 @@
         </mxCell>
         <mxCell id="d0jGHX4UtqGTKGT8X8nP-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="249" y="4122" as="sourcePoint" />
-            <mxPoint x="249" y="4088" as="targetPoint" />
+            <mxPoint x="499" y="4112" as="sourcePoint" />
+            <mxPoint x="499" y="4078" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d0jGHX4UtqGTKGT8X8nP-122" value="ctrl_1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="218" y="4062" width="60" height="30" as="geometry" />
+        <mxCell id="d0jGHX4UtqGTKGT8X8nP-122" value="status_1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468" y="4052" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
