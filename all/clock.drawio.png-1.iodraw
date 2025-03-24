@@ -799,11 +799,11 @@
         <mxCell id="11FokltgYz9QLF6cYpQP-105" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="657" y="3916.5" width="20" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="11FokltgYz9QLF6cYpQP-106" value="64&#39;hFFFFFFFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="588" y="3804" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-107" value="prbs[63:0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="581" y="3979" width="60" height="30" as="geometry" />
+          <mxGeometry x="600" y="3979" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11FokltgYz9QLF6cYpQP-108" value="status_enc[127:96]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="574" y="3299.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
