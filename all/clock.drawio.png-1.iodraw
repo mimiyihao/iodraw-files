@@ -551,13 +551,13 @@
           <mxGeometry x="680" y="2801" width="20" height="69" as="geometry" />
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-43" value="idat_prbs[95:0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="611" y="2820.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="611" y="2993" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="680" y="2888" width="20" height="243" as="geometry" />
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-45" value="status_enc[127:96]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="2994.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="601" y="2818" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
