@@ -484,7 +484,7 @@
             <mxPoint x="251" y="3081" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11FokltgYz9QLF6cYpQP-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="11FokltgYz9QLF6cYpQP-10" value="update[0]=1/update_pol[0]=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="184" y="2796" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
