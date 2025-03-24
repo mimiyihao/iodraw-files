@@ -802,7 +802,7 @@
         <mxCell id="11FokltgYz9QLF6cYpQP-106" value="64&#39;hFFFFFFFF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="588" y="3804" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="11FokltgYz9QLF6cYpQP-107" value="update_enc[63:0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="11FokltgYz9QLF6cYpQP-107" value="prbs[63:0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="581" y="3979" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
