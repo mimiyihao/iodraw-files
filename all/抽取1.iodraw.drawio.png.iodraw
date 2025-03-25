@@ -649,14 +649,8 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-63" value="reg_stat_b10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298" y="900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-64" value="reg_upd_b11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-64" value="reg_stat_b11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298" y="926" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-65" value="upd_initialize" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="298" y="949" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-66" value="upd_preset" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="301" y="974" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -690,9 +684,6 @@
             <mxPoint x="364" y="1014" as="sourcePoint" />
             <mxPoint x="395" y="1014" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-74" value="reg_upd_b14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="298" y="999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
