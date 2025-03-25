@@ -718,8 +718,8 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-84" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="202" y="298" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-85" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="136" y="182" width="60" height="30" as="geometry" />
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-85" value="ireg_lt_txframe_extra_cl136_upd_b5-b7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="136" y="182" width="133" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
