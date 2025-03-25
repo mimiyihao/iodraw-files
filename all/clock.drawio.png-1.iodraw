@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="47_k0gT9hr60XhCQX-Yw">
-    <mxGraphModel dx="226" dy="506" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="192" dy="429" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -830,7 +830,7 @@
           <mxGeometry x="272" y="4219" width="20" height="153" as="geometry" />
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-117" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="272" y="4396" width="20" height="153" as="geometry" />
+          <mxGeometry x="459.48" y="4390" width="20" height="153" as="geometry" />
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -852,12 +852,12 @@
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-123" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="504.70000000000005" y="4204" as="sourcePoint" />
-            <mxPoint x="504.70000000000005" y="4169" as="targetPoint" />
+            <mxPoint x="507.70000000000005" y="4202" as="sourcePoint" />
+            <mxPoint x="507.70000000000005" y="4167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-124" value="reg_msync_in" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="476.48" y="4148" width="60" height="30" as="geometry" />
+          <mxGeometry x="479.48" y="4146" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
