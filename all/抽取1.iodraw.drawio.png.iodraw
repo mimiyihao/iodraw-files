@@ -721,6 +721,9 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-85" value="ireg_lt_txframe_extra_&lt;div&gt;cl136_upd_b5-b7&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="82" y="179" width="133" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-86" value="ireg_lt_txframe_extra_&lt;div&gt;cl136_upd_b5-b7&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="242" width="133" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
