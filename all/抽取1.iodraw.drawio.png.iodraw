@@ -850,15 +850,6 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-115" value="ctl_coeff_req[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="124" y="-315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-117" value="upd_0c[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="138" y="-266" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-118" value="upd_0c[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="138" y="-241" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-119" value="upd_p1c[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="135" y="-216" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-120" value="reg_upd_b8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="133" y="-113" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1086,6 +1077,9 @@
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-173" value="ctl_coeff_req[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="124" y="-292" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-175" value="ctl_coeff_sel[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124" y="-268" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
