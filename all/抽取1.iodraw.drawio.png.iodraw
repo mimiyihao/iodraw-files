@@ -979,9 +979,6 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-150" value="stat_coeff[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="356" y="-315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-154" value="stat_p1c[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="358" y="-218" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-155" value="reg_stat_b8" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="356" y="-115" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1005,9 +1002,6 @@
             <mxPoint x="419" y="-177" as="sourcePoint" />
             <mxPoint x="450" y="-177" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-161" value="stat_p1c[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="358" y="-193" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-162" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1086,6 +1080,12 @@
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-186" value="stat_coeff_sel_echo[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="328" y="-243" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-187" value="stat_coeff_sel_echo[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="328" y="-218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-188" value="stat_coeff_sel_echo[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="-223" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
