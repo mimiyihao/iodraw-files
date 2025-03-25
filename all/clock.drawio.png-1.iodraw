@@ -841,7 +841,7 @@
         <mxCell id="11FokltgYz9QLF6cYpQP-119" value="reg_msync_in" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="4150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="11FokltgYz9QLF6cYpQP-120" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="11FokltgYz9QLF6cYpQP-120" value="ireg_lt_txframe_extra_cl72_upd_b6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="184" y="4281" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
