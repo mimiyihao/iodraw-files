@@ -1019,7 +1019,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-165" value="stat_parity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="356" y="-142" width="60" height="30" as="geometry" />
+          <mxGeometry x="361" y="-140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-166" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
