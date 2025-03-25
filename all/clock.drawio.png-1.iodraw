@@ -881,12 +881,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-134" value="reg_msync_out" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="702" y="4150" width="60" height="30" as="geometry" />
+          <mxGeometry x="698" y="4150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="11FokltgYz9QLF6cYpQP-135" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="680.52" y="4223" width="20" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="11FokltgYz9QLF6cYpQP-136" value="ireg_lt_txframe_extra_&lt;div&gt;cl72&lt;span style=&quot;background-color: initial;&quot;&gt;_upd_b6-b15&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(除了b12)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="11FokltgYz9QLF6cYpQP-136" value="&lt;span style=&quot;background-color: initial;&quot;&gt;reg_upd_b6-b15&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(除了b12)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="553.52" y="4284.5" width="127" height="30" as="geometry" />
         </mxCell>
       </root>
