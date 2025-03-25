@@ -733,8 +733,8 @@
             <mxPoint x="222" y="349" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-89" value="ireg_lt_txframe_extra_&lt;div&gt;cl136_upd_b14-b15&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="92" y="305" width="133" height="30" as="geometry" />
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-89" value="ireg_lt_txframe_extra_&lt;div&gt;cl136_stat_b6&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="74" y="332" width="133" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
