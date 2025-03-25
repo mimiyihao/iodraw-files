@@ -691,7 +691,7 @@
             <mxPoint x="395" y="1038.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-76" value="reg_upd_b15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-76" value="stat_rx_ready" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298" y="1023" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-77" value="reg_stat_b12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -700,7 +700,7 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-78" value="reg_stat_b13" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298" y="973" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-79" value="reg_stat_b11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-79" value="reg_stat_b14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298" y="999" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
