@@ -1084,8 +1084,8 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-171" value="reg_stat_b14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="329" y="33" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-173" value="ctl_coeff_req[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="144" y="-295" width="60" height="30" as="geometry" />
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-173" value="ctl_coeff_req[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124" y="-292" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
