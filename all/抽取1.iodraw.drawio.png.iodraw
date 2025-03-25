@@ -486,12 +486,12 @@
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="916" as="sourcePoint" />
-            <mxPoint x="194" y="916" as="targetPoint" />
+            <mxPoint x="165" y="917.83" as="sourcePoint" />
+            <mxPoint x="196" y="917.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-25" value="reg_upd_b10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="902" width="60" height="30" as="geometry" />
+          <mxGeometry x="99" y="902" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-26" value="out_init_cond[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="927" width="60" height="30" as="geometry" />
