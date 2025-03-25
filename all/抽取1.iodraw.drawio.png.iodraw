@@ -880,9 +880,6 @@
             <mxPoint x="227" y="-175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-128" value="upd_p1c[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="135" y="-191" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-129" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="196" y="-149" as="sourcePoint" />
@@ -1084,8 +1081,11 @@
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-176" value="ctl_coeff_sel[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="126" y="-243" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-177" value="ctl_coeff_sel[0]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="144" y="-248" width="60" height="30" as="geometry" />
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-177" value="ctl_coeff_sel[2]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="126" y="-218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-178" value="reg_upd_b6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="143" y="-155" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
