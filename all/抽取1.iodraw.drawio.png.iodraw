@@ -664,7 +664,7 @@
             <mxPoint x="395" y="789" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-68" value="upd_p1c[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-68" value="stat_p1c[1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="303" y="773" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -673,7 +673,7 @@
             <mxPoint x="395" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bSH2qdHyc4F_MNzVVfT-70" value="reg_upd_b6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_bSH2qdHyc4F_MNzVVfT-70" value="reg_stat_b6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="301" y="799" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_bSH2qdHyc4F_MNzVVfT-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
