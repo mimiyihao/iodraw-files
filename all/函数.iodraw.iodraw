@@ -699,6 +699,9 @@
         <mxCell id="zxeT7yKTu6Akksr8yLlQ-155" value="eqbk_first_iter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1155" y="50" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zxeT7yKTu6Akksr8yLlQ-156" value="eqbk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
