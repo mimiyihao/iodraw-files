@@ -41,17 +41,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OomI5-bUh_4uvLg-Dw2Y-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="OomI5-bUh_4uvLg-Dw2Y-6">
+        <mxCell id="OomI5-bUh_4uvLg-Dw2Y-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="OomI5-bUh_4uvLg-Dw2Y-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="319.58" y="345" as="sourcePoint" />
             <mxPoint x="319.58" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OomI5-bUh_4uvLg-Dw2Y-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="400" width="100" height="40" as="geometry" />
+          <mxGeometry x="270" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OomI5-bUh_4uvLg-Dw2Y-7" value="eqbk_hold_ack=0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="405" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="385" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
