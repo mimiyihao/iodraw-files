@@ -514,12 +514,15 @@
         </mxCell>
         <mxCell id="zxeT7yKTu6Akksr8yLlQ-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.002;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2060" y="351" as="sourcePoint" />
-            <mxPoint x="2136" y="391" as="targetPoint" />
+            <mxPoint x="2055" y="350" as="sourcePoint" />
+            <mxPoint x="2131" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2136" y="351" />
+              <mxPoint x="2131" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zxeT7yKTu6Akksr8yLlQ-103" value="是否为PRBS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1980" y="335" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
