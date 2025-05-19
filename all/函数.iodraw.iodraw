@@ -522,7 +522,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zxeT7yKTu6Akksr8yLlQ-103" value="是否为PRBS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1980" y="335" width="80" height="40" as="geometry" />
+          <mxGeometry x="2095" y="390" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
