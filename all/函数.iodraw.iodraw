@@ -607,7 +607,7 @@
             <mxPoint x="1880" y="855" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zxeT7yKTu6Akksr8yLlQ-131" value="unbonded_nbonded_a=1&lt;div&gt;lms_mu_nt=15&lt;/div&gt;&lt;div&gt;slave_mode_a=0&lt;/div&gt;&lt;div&gt;watchdog_cfg_nt=15&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="zxeT7yKTu6Akksr8yLlQ-131" value="unbonded_nbonded_a=1&lt;div&gt;lms_mu_nt=16&lt;/div&gt;&lt;div&gt;slave_mode_a=0&lt;/div&gt;&lt;div&gt;watchdog_cfg_nt=15&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1810" y="855" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
