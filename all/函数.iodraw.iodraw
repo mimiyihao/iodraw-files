@@ -275,6 +275,9 @@
             <mxPoint x="680.0699999999999" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zxeT7yKTu6Akksr8yLlQ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zxeT7yKTu6Akksr8yLlQ-39" target="zxeT7yKTu6Akksr8yLlQ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zxeT7yKTu6Akksr8yLlQ-39" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1350" y="80" width="120" height="40" as="geometry" />
         </mxCell>
@@ -286,6 +289,12 @@
         </mxCell>
         <mxCell id="zxeT7yKTu6Akksr8yLlQ-42" value="unbonded_nbonded_a=1&lt;div&gt;lms_mu_nt=15&lt;/div&gt;&lt;div&gt;slave_mode_a=0&lt;/div&gt;&lt;div&gt;watchdog_cfg_nt=15&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1340" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxeT7yKTu6Akksr8yLlQ-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="130" as="sourcePoint" />
+            <mxPoint x="1420" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
