@@ -187,8 +187,8 @@
         <mxCell id="b72W-e-7n2CUvwMVVM8h-52" value="配置相关顺序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.5" y="1420" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ERheuqroL8ucEMvCSn0--1" value="rxmfsm_linkeval_full_dir_start_flag(" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107.5" y="390" width="170" height="70" as="geometry" />
+        <mxCell id="ERheuqroL8ucEMvCSn0--1" value="rxmfsm_linkeval_full_dir_start_flag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="390" width="192.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
