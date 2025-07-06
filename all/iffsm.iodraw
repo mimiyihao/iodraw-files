@@ -135,6 +135,11 @@
             <mxPoint x="493" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-59" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-55">
+          <mxGeometry x="-0.1112" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-54" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="453" y="368" width="80" height="80" as="geometry" />
         </mxCell>
@@ -143,7 +148,7 @@
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="493" y="601" as="targetPoint" />
+            <mxPoint x="493" y="608" as="targetPoint" />
             <mxPoint x="492.83" y="568" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="492.83" y="570" />
@@ -152,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-58" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="453" y="642" width="80" height="80" as="geometry" />
+          <mxGeometry x="453" y="608" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
