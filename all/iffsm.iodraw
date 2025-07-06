@@ -280,8 +280,8 @@
             <mxPoint x="-2" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuZutmdbirs8A3yNDLxh-89" value="cntr==ireg_tx_fir_delay_nt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="950" y="612.0828571428574" as="geometry" />
+        <mxCell id="QuZutmdbirs8A3yNDLxh-90" value="ictl_margin_req=0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="897.0000145454526" y="780.0000000000001" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
