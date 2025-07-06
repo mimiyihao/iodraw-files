@@ -244,6 +244,15 @@
         <mxCell id="QuZutmdbirs8A3yNDLxh-78" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="890" y="616.94" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-79" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="694" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-80" value="S_DELAY" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="876" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-81" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="900" y="626.94" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
