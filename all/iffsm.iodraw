@@ -174,8 +174,13 @@
         <mxCell id="QuZutmdbirs8A3yNDLxh-58" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="453" y="627" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QuZutmdbirs8A3yNDLxh-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="531" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-64" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="463" y="378" width="80" height="80" as="geometry" />
+          <mxGeometry x="319" y="850" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
