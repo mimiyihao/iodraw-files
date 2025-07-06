@@ -213,6 +213,9 @@
         <mxCell id="QuZutmdbirs8A3yNDLxh-72" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="890" y="357.94" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QuZutmdbirs8A3yNDLxh-73" target="QuZutmdbirs8A3yNDLxh-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-73" value="S_DELAY" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="890" y="494.94" width="80" height="80" as="geometry" />
         </mxCell>
@@ -260,9 +263,12 @@
           <mxGeometry x="1058" y="820" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-85" value="ictl_level_req=1&amp;amp;&lt;div&gt;ictl_isreset=0&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="940.9999999999998" y="470.79714285714317" as="geometry">
+          <mxGeometry x="929.9999999999998" y="501.99714285714316" as="geometry">
             <mxPoint x="-106" y="343" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-87" value="cntr==ireg_tx_fir_delay_nt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1007" y="881.0028571428575" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
