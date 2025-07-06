@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuZutmdbirs8A3yNDLxh-45" value="ictl_cur_power=1&lt;div&gt;&amp;amp;ictl_busy=0&amp;amp;&lt;/div&gt;&lt;div&gt;(octl_rate_req==ictl_cur_rate)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-44">
+        <mxCell id="QuZutmdbirs8A3yNDLxh-45" value="ictl_cur_power=1&lt;div&gt;&amp;amp;ictl_busy=0&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-44">
           <mxGeometry x="-0.0595" y="-1" relative="1" as="geometry">
             <mxPoint y="15" as="offset" />
           </mxGeometry>
