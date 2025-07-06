@@ -259,6 +259,9 @@
         <mxCell id="QuZutmdbirs8A3yNDLxh-80" value="S_DELAY" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="863" y="820" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QuZutmdbirs8A3yNDLxh-81" target="QuZutmdbirs8A3yNDLxh-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-81" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1049" y="820" width="80" height="80" as="geometry" />
         </mxCell>
@@ -268,7 +271,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-87" value="cntr==&lt;div&gt;ireg_tx_fir_delay_nt&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1001" y="846.0028571428575" as="geometry">
+          <mxGeometry x="996" y="846.0028571428575" as="geometry">
             <mxPoint x="-2" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
