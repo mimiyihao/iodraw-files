@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="763C2Qt_CaaHU_Jcu9xG" name="第 1 页">
-    <mxGraphModel dx="687" dy="2151" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="1745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QuZutmdbirs8A3yNDLxh-72">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503.0000000000001" y="513.9655172413795" as="targetPoint" />
+            <mxPoint x="930.0000000000001" y="493.9055172413795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-71" value="ictl_margin_req=1&amp;amp;&lt;div&gt;ictl_isreset=0&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-70">
@@ -211,15 +211,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-72" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="463" y="378" width="80" height="80" as="geometry" />
+          <mxGeometry x="890" y="357.94" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-73" value="S_DELAY" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="463" y="515" width="80" height="80" as="geometry" />
+          <mxGeometry x="890" y="494.94" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="503" y="638" as="targetPoint" />
-            <mxPoint x="503" y="595" as="sourcePoint" />
+            <mxPoint x="930" y="617.94" as="targetPoint" />
+            <mxPoint x="930" y="574.94" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-75" value="cntr==ireg_rxmargin_delay_nt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-74">
@@ -230,9 +230,9 @@
         <mxCell id="QuZutmdbirs8A3yNDLxh-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QuZutmdbirs8A3yNDLxh-78" target="QuZutmdbirs8A3yNDLxh-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="598" y="677" />
-              <mxPoint x="598" y="358" />
-              <mxPoint x="503" y="358" />
+              <mxPoint x="1025" y="656.94" />
+              <mxPoint x="1025" y="337.94" />
+              <mxPoint x="930" y="337.94" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-78" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="463" y="637" width="80" height="80" as="geometry" />
+          <mxGeometry x="890" y="616.94" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
