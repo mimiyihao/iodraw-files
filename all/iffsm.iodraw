@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QuZutmdbirs8A3yNDLxh-12" value="!(ictl_busy=1&amp;amp;&lt;div&gt;(ictl_new_power=0&amp;amp;&lt;/div&gt;&lt;div&gt;ictl_cur_power=1)|&lt;/div&gt;&lt;div&gt;(octl_rate_req!=iiictl_cur_rate))&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-9">
+        <mxCell id="QuZutmdbirs8A3yNDLxh-12" value="!(ictl_busy=1&amp;amp;&lt;div&gt;(ictl_new_power=0&amp;amp;&lt;/div&gt;&lt;div&gt;ictl_cur_power=1)|&lt;/div&gt;&lt;div&gt;(octl_rate_req!=ictl_cur_rate))&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-9">
           <mxGeometry x="-0.0445" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
