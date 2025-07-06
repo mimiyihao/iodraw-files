@@ -137,7 +137,7 @@
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-60" value="ictl_margin_req=1&amp;amp;&lt;div&gt;ictl_isreset=0&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QuZutmdbirs8A3yNDLxh-55">
           <mxGeometry x="-0.1854" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-192" y="-147" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QuZutmdbirs8A3yNDLxh-54" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -322,6 +322,9 @@
           <mxGeometry x="472" y="481.3333333333335" as="geometry">
             <mxPoint x="-394" y="-28" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QuZutmdbirs8A3yNDLxh-133" value="ictl_margin_req=1&amp;amp;&lt;div&gt;ictl_isreset=0&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="312.0232993081531" y="333.8561116141343" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
