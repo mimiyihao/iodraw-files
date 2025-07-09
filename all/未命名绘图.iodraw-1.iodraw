@@ -21,7 +21,7 @@
         <mxCell id="94LEbrJZfBkshPiBO7x2-4" value="S_BROADCAST" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="94LEbrJZfBkshPiBO7x2-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="94LEbrJZfBkshPiBO7x2-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="269.8" as="sourcePoint" />
             <mxPoint x="570" y="270" as="targetPoint" />
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-6" value="S_ERROR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="80" height="80" as="geometry" />
+          <mxGeometry x="560" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
