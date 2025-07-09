@@ -27,7 +27,7 @@
             <mxPoint x="570" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-7" value="ictl_apb_req=1&amp;amp;sram=1&lt;div&gt;&amp;amp;idat_apb_addr[30]=1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94LEbrJZfBkshPiBO7x2-5">
+        <mxCell id="94LEbrJZfBkshPiBO7x2-7" value="ictl_apb_req=1&amp;amp;sram=1&lt;div&gt;&amp;amp;idat_apb_addr[30]=1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;|nolane=1|nocmn=1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94LEbrJZfBkshPiBO7x2-5">
           <mxGeometry x="-0.2057" y="1" relative="1" as="geometry">
             <mxPoint x="14" y="-9" as="offset" />
           </mxGeometry>
