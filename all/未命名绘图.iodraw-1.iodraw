@@ -92,12 +92,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-19" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="630" width="120" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-20" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="630" width="120" height="210" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
