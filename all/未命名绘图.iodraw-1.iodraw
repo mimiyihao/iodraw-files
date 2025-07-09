@@ -159,7 +159,7 @@
             <mxPoint x="4" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="94LEbrJZfBkshPiBO7x2-43" value="S_RAM" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="454" y="938" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="94LEbrJZfBkshPiBO7x2-43">
@@ -170,7 +170,7 @@
         </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-47" value="ictl_sbus_ack=1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94LEbrJZfBkshPiBO7x2-44">
           <mxGeometry x="-0.1157" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-45" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
