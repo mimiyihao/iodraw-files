@@ -92,8 +92,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="620" width="80" height="80" as="geometry" />
+        <mxCell id="94LEbrJZfBkshPiBO7x2-19" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="630" width="200" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
