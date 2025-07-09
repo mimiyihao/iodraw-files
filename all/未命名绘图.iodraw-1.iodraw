@@ -13,9 +13,9 @@
             <mxPoint x="389.71" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-3" value="ictl_apb_req=1&amp;amp;&lt;div&gt;broadcast=1&amp;amp;i&lt;/div&gt;&lt;div&gt;ctl_apb_pwrite=1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94LEbrJZfBkshPiBO7x2-2">
+        <mxCell id="94LEbrJZfBkshPiBO7x2-3" value="ictl_apb_req=1&amp;amp;&lt;div&gt;broadcast=1&amp;amp;&lt;/div&gt;&lt;div&gt;ictl_apb_pwrite=1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94LEbrJZfBkshPiBO7x2-2">
           <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-32" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
