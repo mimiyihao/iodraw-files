@@ -113,8 +113,8 @@
         <mxCell id="94LEbrJZfBkshPiBO7x2-24" value="client1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="630" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-29" value="greq&lt;div&gt;req&lt;/div&gt;&lt;div&gt;wr&lt;/div&gt;&lt;div&gt;addr&lt;/div&gt;&lt;div&gt;wdata&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="618" width="60" height="90" as="geometry" />
+        <mxCell id="94LEbrJZfBkshPiBO7x2-29" value="client0_greq&lt;div&gt;req&lt;/div&gt;&lt;div&gt;wr&lt;/div&gt;&lt;div&gt;addr&lt;/div&gt;&lt;div&gt;wdata&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="640" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
