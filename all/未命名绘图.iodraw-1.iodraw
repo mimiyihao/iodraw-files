@@ -98,7 +98,7 @@
         <mxCell id="94LEbrJZfBkshPiBO7x2-23" value="client0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="630" width="120" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="94LEbrJZfBkshPiBO7x2-24" value="client1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="630" width="120" height="220" as="geometry" />
         </mxCell>
       </root>
