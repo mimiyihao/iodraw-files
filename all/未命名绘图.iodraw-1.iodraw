@@ -109,17 +109,24 @@
         <mxCell id="94LEbrJZfBkshPiBO7x2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="94LEbrJZfBkshPiBO7x2-23" target="94LEbrJZfBkshPiBO7x2-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="94LEbrJZfBkshPiBO7x2-33" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;client0_greq&lt;/span&gt;&lt;br style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;div style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client0_&lt;/span&gt;req&lt;/div&gt;&lt;div style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client0_&lt;/span&gt;wr&lt;/div&gt;&lt;div style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client0_&lt;/span&gt;addr&lt;/div&gt;&lt;div style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client0_&lt;/span&gt;wdata&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94LEbrJZfBkshPiBO7x2-25">
+          <mxGeometry x="-0.0928" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-23" value="client0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="630" width="120" height="220" as="geometry" />
         </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="94LEbrJZfBkshPiBO7x2-24" target="94LEbrJZfBkshPiBO7x2-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="94LEbrJZfBkshPiBO7x2-34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="94LEbrJZfBkshPiBO7x2-28">
+          <mxGeometry x="-0.0232" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-24" value="client1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="630" width="120" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="94LEbrJZfBkshPiBO7x2-30" value="client1_greq&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client1_&lt;/span&gt;req&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client1_&lt;/span&gt;wr&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client1_&lt;/span&gt;addr&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;client1_&lt;/span&gt;wdata&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="640" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="94LEbrJZfBkshPiBO7x2-32" value="client1_grant&lt;div&gt;client1_ack&lt;/div&gt;&lt;div&gt;client1_rdata&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="499.99826086956523" y="800.0000000000002" as="geometry" />
