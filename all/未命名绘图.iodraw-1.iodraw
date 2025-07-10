@@ -204,11 +204,14 @@
         <mxCell id="P3HDtE3Wr9HnGI4KDdMb-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="1100" as="sourcePoint" />
-            <mxPoint x="510" y="1180" as="targetPoint" />
+            <mxPoint x="490" y="1180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="1100" />
+              <mxPoint x="490" y="1100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P3HDtE3Wr9HnGI4KDdMb-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
