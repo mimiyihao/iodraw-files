@@ -189,10 +189,10 @@
         <mxCell id="P3HDtE3Wr9HnGI4KDdMb-2" value="主设备选择&lt;div&gt;（is_jtag_master）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347" y="1071" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P3HDtE3Wr9HnGI4KDdMb-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="P3HDtE3Wr9HnGI4KDdMb-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P3HDtE3Wr9HnGI4KDdMb-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="347" y="1100.94" as="sourcePoint" />
-            <mxPoint x="307" y="1100.94" as="targetPoint" />
+            <mxPoint x="321" y="1100.88" as="sourcePoint" />
+            <mxPoint x="300" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
