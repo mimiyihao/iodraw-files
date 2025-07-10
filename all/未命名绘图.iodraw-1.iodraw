@@ -198,7 +198,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P3HDtE3Wr9HnGI4KDdMb-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3HDtE3Wr9HnGI4KDdMb-4">
+        <mxCell id="P3HDtE3Wr9HnGI4KDdMb-13" value="JTAG模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3HDtE3Wr9HnGI4KDdMb-4">
           <mxGeometry x="0.2121" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -214,6 +214,11 @@
               <mxPoint x="480" y="1100" />
               <mxPoint x="490" y="1100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3HDtE3Wr9HnGI4KDdMb-14" value="APB模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P3HDtE3Wr9HnGI4KDdMb-6">
+          <mxGeometry x="0.2077" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P3HDtE3Wr9HnGI4KDdMb-7" value="APB4寄存器组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
