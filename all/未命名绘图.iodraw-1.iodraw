@@ -343,8 +343,8 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-18" value="idat_apb_addr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="64" y="50" width="95" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="141" y="78" width="40" height="26" as="geometry" />
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-19" value="[31]=1为sram&lt;div&gt;[31:30]==2&#39;b01 为broadcast&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="75" width="166" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
