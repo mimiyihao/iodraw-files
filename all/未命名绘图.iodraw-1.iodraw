@@ -311,10 +311,10 @@
           <mxGeometry x="185" y="50" width="32" height="27" as="geometry" />
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="173" y="70" width="32" height="24" as="geometry" />
+          <mxGeometry x="174" y="51" width="32" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="70" width="32" height="24" as="geometry" />
+          <mxGeometry x="206" y="51" width="32" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
