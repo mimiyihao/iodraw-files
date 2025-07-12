@@ -370,8 +370,8 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-40" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="885" y="49" width="32" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-41" value="idat_apb_addr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="51" width="95" height="26" as="geometry" />
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-41" value="ictl_abus_addr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="51" width="96" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-42" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="917" y="49" width="32" height="27" as="geometry" />
