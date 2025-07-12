@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HXEIO8j3JF-1PCyPdKvG">
-    <mxGraphModel dx="616" dy="440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1953" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,30 @@
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-19" value="[31]=1为sram&lt;div&gt;[31:30]==2&#39;b01 为broadcast&lt;/div&gt;&lt;div&gt;[29:25]&amp;gt;LANES，为nolane&lt;/div&gt;&lt;div&gt;([29:25]==5&#39;d0）&amp;amp;（[13:12]!=2&#39;d0）为nocmn&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="152" y="73" width="256" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-33" value="31" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="60" width="32" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-34" value="30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="60" width="32" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-35" value="29" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="60" width="32" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-36" value="28" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="60" width="32" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-37" value="27" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="32" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-38" value="26" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="60" width="32" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-39" value="25" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="60" width="32" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-40" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="60" width="32" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
