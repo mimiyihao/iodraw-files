@@ -475,7 +475,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="450" width="110" height="50" as="geometry" />
+          <mxGeometry x="1060" y="970" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-72" value="有新请求登记，req=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="630" width="110" height="50" as="geometry" />
@@ -530,6 +530,12 @@
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-87" value="空闲时更新：&lt;div&gt;dgrant=dgrant_nxt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="890" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-88" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1114.79" y="940" as="sourcePoint" />
+            <mxPoint x="1115.09" y="970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
