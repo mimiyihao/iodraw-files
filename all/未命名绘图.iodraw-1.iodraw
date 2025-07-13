@@ -421,7 +421,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-54" value="state_next!=IDLE,psel=1,否则为0&lt;div&gt;state_next=ACCESS,penable,否则为0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="430" width="237" height="40" as="geometry" />
+          <mxGeometry x="917" y="420" width="237" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
