@@ -474,8 +474,11 @@
             <mxPoint x="1024.74" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-71" value="ictl_sbus_greq[i]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1135" y="450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-72" value="有新请求登记，req=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="969" y="630" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
