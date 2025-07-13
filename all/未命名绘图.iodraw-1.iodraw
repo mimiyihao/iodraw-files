@@ -462,8 +462,8 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-67" value="ictl_abus_addr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="958" y="52" width="96" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-68" value="&lt;div&gt;[31:30]==2&#39;b01 为broadcast&lt;/div&gt;&lt;div&gt;[29:25]==ictl_lane_id且ictl&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1046" y="90" width="166" height="41" as="geometry" />
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-68" value="&lt;div&gt;[31:30]==2&#39;b01 为broadcast&lt;/div&gt;&lt;div&gt;[29:25]==ictl_lane_id且ictl_abus_addr[31]=0，lane_match=1&lt;br&gt;&lt;/div&gt;&lt;div&gt;[13:12]==2&#39;d1为tx&lt;/div&gt;&lt;div&gt;[13:12]==2&#39;d0为rx&lt;/div&gt;&lt;div&gt;[13:12]==2&#39;d2为eth&lt;/div&gt;&lt;div&gt;[13:12]==2‘d3为dfx&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1046" y="62" width="340" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
