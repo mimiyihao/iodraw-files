@@ -468,6 +468,12 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-69" value="ictl_sbus_greq[i]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="540" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="680" as="sourcePoint" />
+            <mxPoint x="1070" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
