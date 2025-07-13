@@ -522,13 +522,13 @@
             <mxPoint x="1114.7" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKcCzkN3t4z3ZLZkJx8V-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1114.7" y="860" as="sourcePoint" />
             <mxPoint x="1114.7" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-87" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-87" value="空闲时更新：&lt;div&gt;dgrant=dgrant_nxt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="890" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
