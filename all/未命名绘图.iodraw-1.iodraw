@@ -385,7 +385,7 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-45" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="903" y="315" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-46" value="S_ACCESS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1219" y="315" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKcCzkN3t4z3ZLZkJx8V-44">
@@ -407,7 +407,7 @@
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-50" value="pready=1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iKcCzkN3t4z3ZLZkJx8V-48">
           <mxGeometry x="-0.1436" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
