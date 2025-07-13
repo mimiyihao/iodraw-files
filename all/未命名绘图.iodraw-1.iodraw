@@ -489,6 +489,9 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-74" value="扩展请求向量，&lt;div&gt;dreq={req,req}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="720" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-75" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="540" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
