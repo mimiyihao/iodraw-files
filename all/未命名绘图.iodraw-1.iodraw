@@ -498,9 +498,6 @@
             <mxPoint x="1208.79" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKcCzkN3t4z3ZLZkJx8V-77" target="iKcCzkN3t4z3ZLZkJx8V-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-77" value="仲裁状态机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1154" y="630" width="110" height="50" as="geometry" />
         </mxCell>
@@ -518,6 +515,12 @@
         </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-83" value="计算dgrant_nxt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="810" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKcCzkN3t4z3ZLZkJx8V-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1114.7" y="790" as="sourcePoint" />
+            <mxPoint x="1114.7" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
