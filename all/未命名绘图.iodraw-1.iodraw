@@ -513,7 +513,7 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="1105" y="685" width="20" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-83" value="就算dgrant_nxt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="810" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
