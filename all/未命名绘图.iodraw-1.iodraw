@@ -554,6 +554,9 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-93" value="S_ABUS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1264" y="1210" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-94" value="ictl_mfsm_req=0且&lt;div&gt;ictl_abus_req=1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1215.8333333333333" y="1244.2899999999997" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
