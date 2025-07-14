@@ -586,6 +586,11 @@
             <mxPoint x="1" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-100" value="ictl_mfsm_req=1且&lt;div&gt;ictl_abus_req=1&lt;/div&gt;&lt;div&gt;且token=1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1219.0033333333333" y="1250.9999999999998" as="geometry">
+            <mxPoint x="-1" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
