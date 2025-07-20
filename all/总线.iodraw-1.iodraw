@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HXEIO8j3JF-1PCyPdKvG">
-    <mxGraphModel dx="2013" dy="593" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,52 +683,49 @@
           <mxGeometry x="656" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-29" value="done=&lt;div&gt;(|(ictl_sbus_req))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1428" y="990" width="94" height="59" as="geometry" />
+          <mxGeometry x="1708" y="931" width="94" height="59" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-36" value="token右移，&lt;div&gt;idle=1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1557" y="990" width="94" height="59" as="geometry" />
+          <mxGeometry x="1837" y="931" width="94" height="59" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-37" value="计算 dgrant_nxt (基于token)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1080" width="94" height="59" as="geometry" />
+          <mxGeometry x="1960" y="1021" width="94" height="59" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.009;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="94gPGVkHymrIeaveLkb0-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1522" y="1020.0000000000001" as="sourcePoint" />
-            <mxPoint x="1554" y="1020.32" as="targetPoint" />
+            <mxPoint x="1802" y="961.0000000000001" as="sourcePoint" />
+            <mxPoint x="1834" y="961.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-42" value="=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="998" width="40" height="30" as="geometry" />
+          <mxGeometry x="1800" y="939" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-43" value="根据&lt;div&gt;ictl_sbus_greq[i],&lt;/div&gt;&lt;div&gt;req[i]=1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1428" y="1080" width="94" height="59" as="geometry" />
+          <mxGeometry x="1708" y="1021" width="94" height="59" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;扩展请求向量，&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;dreq={req,req}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1554" y="1080" width="94" height="59" as="geometry" />
+          <mxGeometry x="1834" y="1021" width="94" height="59" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="94gPGVkHymrIeaveLkb0-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1522" y="1109.68" as="sourcePoint" />
-            <mxPoint x="1550" y="1109.3200000000002" as="targetPoint" />
+            <mxPoint x="1802" y="1050.68" as="sourcePoint" />
+            <mxPoint x="1830" y="1050.3200000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1648" y="1109.3400000000001" as="sourcePoint" />
-            <mxPoint x="1680" y="1109.66" as="targetPoint" />
+            <mxPoint x="1928" y="1050.3400000000001" as="sourcePoint" />
+            <mxPoint x="1960" y="1050.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1774" y="1109.2500000000002" as="sourcePoint" />
-            <mxPoint x="1806" y="1109.5700000000002" as="targetPoint" />
+            <mxPoint x="2054" y="1050.2500000000002" as="sourcePoint" />
+            <mxPoint x="2086" y="1050.5700000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="879" width="94" height="59" as="geometry" />
-        </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-49" value="idle=1更新dgrant，输出&lt;div&gt;octl_sbus_grant；&lt;br&gt;&lt;div&gt;done=1清零&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1806" y="1080" width="104" height="59" as="geometry" />
+          <mxGeometry x="2086" y="1021" width="104" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
