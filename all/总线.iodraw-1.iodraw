@@ -669,12 +669,12 @@
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="748" y="2061.29" as="sourcePoint" />
-            <mxPoint x="780" y="2061.29" as="targetPoint" />
+            <mxPoint x="867.5" y="2051.29" as="sourcePoint" />
+            <mxPoint x="899.5" y="2051.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-24" value="one_hot转码&lt;div&gt;sel_ack_d_conv&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="2033" width="98" height="57" as="geometry" />
+        <mxCell id="94gPGVkHymrIeaveLkb0-24" value="选择输出ack_any&lt;div&gt;和octl_sbus_ack&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900.5" y="2023" width="98" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
