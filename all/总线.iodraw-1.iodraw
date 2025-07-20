@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HXEIO8j3JF-1PCyPdKvG">
-    <mxGraphModel dx="1660" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -629,61 +629,61 @@
           <mxGeometry x="430" y="375" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-1" value="ack_d0=&lt;div&gt;wctl_sbus_req&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="2023" width="98" height="57" as="geometry" />
+          <mxGeometry x="-129" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-10" value="应答选择sel_ack_d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="2023" width="98" height="57" as="geometry" />
+          <mxGeometry x="262" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="347" y="2051.42" as="sourcePoint" />
-            <mxPoint x="379" y="2051.42" as="targetPoint" />
+            <mxPoint x="-31" y="2043.42" as="sourcePoint" />
+            <mxPoint x="1" y="2043.42" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-16" value="one_hot转码&lt;div&gt;ack_d0_conv&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="2023" width="98" height="57" as="geometry" />
+          <mxGeometry x="1" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="477" y="2051.29" as="sourcePoint" />
-            <mxPoint x="509" y="2051.29" as="targetPoint" />
+            <mxPoint x="99" y="2043.29" as="sourcePoint" />
+            <mxPoint x="131" y="2043.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-18" value="延迟链&lt;div&gt;ack_d[i]=&lt;/div&gt;&lt;div&gt;ack_d[i-1]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="2023" width="98" height="57" as="geometry" />
+          <mxGeometry x="131" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="608" y="2051.24" as="sourcePoint" />
-            <mxPoint x="640" y="2051.24" as="targetPoint" />
+            <mxPoint x="230" y="2043.2399999999998" as="sourcePoint" />
+            <mxPoint x="262" y="2043.2399999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="738" y="2051.29" as="sourcePoint" />
-            <mxPoint x="770" y="2051.29" as="targetPoint" />
+            <mxPoint x="360" y="2043.29" as="sourcePoint" />
+            <mxPoint x="392" y="2043.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-22" value="one_hot转码&lt;div&gt;sel_ack_d_conv&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="771" y="2023" width="98" height="57" as="geometry" />
+          <mxGeometry x="393" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="867.5" y="2051.29" as="sourcePoint" />
-            <mxPoint x="899.5" y="2051.29" as="targetPoint" />
+            <mxPoint x="489.5" y="2043.29" as="sourcePoint" />
+            <mxPoint x="521.5" y="2043.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-24" value="选择输出ack_any&lt;div&gt;和octl_sbus_ack&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900.5" y="2023" width="98" height="57" as="geometry" />
+          <mxGeometry x="522.5" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1001" y="2051.29" as="sourcePoint" />
-            <mxPoint x="1033" y="2051.29" as="targetPoint" />
+            <mxPoint x="623" y="2043.29" as="sourcePoint" />
+            <mxPoint x="655" y="2043.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-27" value="输出&lt;div&gt;octl_sbus_rdata&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1034" y="2023" width="98" height="57" as="geometry" />
+          <mxGeometry x="656" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
