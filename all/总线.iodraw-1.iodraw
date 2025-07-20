@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HXEIO8j3JF-1PCyPdKvG">
-    <mxGraphModel dx="1222" dy="198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,18 +687,6 @@
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-29" value="done=&lt;div&gt;(|(ictl_sbus_req))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1428" y="990" width="94" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=0;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="1438" y="712.5" width="20" height="142" as="geometry" />
-        </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-32" value="token右移" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1463" y="685" width="94" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-33" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1424" y="709" width="25" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-34" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1424" y="824" width="25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-35" value="根据&lt;div&gt;ictl_sbus_greq[i],&lt;/div&gt;&lt;div&gt;req[i]=1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1463" y="821" width="94" height="59" as="geometry" />
