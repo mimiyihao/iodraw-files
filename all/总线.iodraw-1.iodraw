@@ -678,12 +678,12 @@
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="877.5" y="2061.29" as="sourcePoint" />
-            <mxPoint x="909.5" y="2061.29" as="targetPoint" />
+            <mxPoint x="1001" y="2051.29" as="sourcePoint" />
+            <mxPoint x="1033" y="2051.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-27" value="选择输出ack_any&lt;div&gt;和octl_sbus_ack&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910.5" y="2033" width="98" height="57" as="geometry" />
+        <mxCell id="94gPGVkHymrIeaveLkb0-27" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="2023" width="98" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
