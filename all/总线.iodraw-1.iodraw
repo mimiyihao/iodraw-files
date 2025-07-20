@@ -685,6 +685,9 @@
         <mxCell id="94gPGVkHymrIeaveLkb0-27" value="输出&lt;div&gt;octl_sbus_rdata&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="656" y="2015" width="98" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="94gPGVkHymrIeaveLkb0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="734" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
