@@ -727,7 +727,7 @@
         <mxCell id="94gPGVkHymrIeaveLkb0-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="879" width="94" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-49" value="idle=1更新dgrant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="94gPGVkHymrIeaveLkb0-49" value="idle=1更新dgrant&lt;div&gt;done=1清零&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1806" y="1080" width="94" height="59" as="geometry" />
         </mxCell>
       </root>
