@@ -682,7 +682,7 @@
             <mxPoint x="1033" y="2051.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-27" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="94gPGVkHymrIeaveLkb0-27" value="输出&lt;div&gt;octl_sbus_rdata&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1034" y="2023" width="98" height="57" as="geometry" />
         </mxCell>
       </root>
