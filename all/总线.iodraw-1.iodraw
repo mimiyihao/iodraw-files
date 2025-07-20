@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="HXEIO8j3JF-1PCyPdKvG">
-    <mxGraphModel dx="1803" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1519" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,9 +501,6 @@
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-79" value="token更新" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1154" y="720" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iKcCzkN3t4z3ZLZkJx8V-82" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="1683" y="713.5" width="20" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="iKcCzkN3t4z3ZLZkJx8V-83" value="计算dgrant_nxt" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="810" width="110" height="50" as="geometry" />
         </mxCell>
@@ -703,12 +700,6 @@
             <mxPoint x="1585" y="850.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1557" y="714.25" as="sourcePoint" />
-            <mxPoint x="1680" y="714" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.009;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="94gPGVkHymrIeaveLkb0-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1522" y="1020.0000000000001" as="sourcePoint" />
@@ -717,6 +708,18 @@
         </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-42" value="=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1520" y="998" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="94gPGVkHymrIeaveLkb0-43" value="根据&lt;div&gt;ictl_sbus_greq[i],&lt;/div&gt;&lt;div&gt;req[i]=1&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1428" y="1080" width="94" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="94gPGVkHymrIeaveLkb0-44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;扩展请求向量，&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;dreq={req,req}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1554" y="1080" width="94" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="94gPGVkHymrIeaveLkb0-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="94gPGVkHymrIeaveLkb0-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1522" y="1109.68" as="sourcePoint" />
+            <mxPoint x="1550" y="1109.3200000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
