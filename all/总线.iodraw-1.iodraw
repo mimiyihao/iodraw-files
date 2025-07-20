@@ -688,17 +688,11 @@
         <mxCell id="94gPGVkHymrIeaveLkb0-29" value="done=&lt;div&gt;(|(ictl_sbus_req))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1344" y="754" width="94" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1395" y="723" as="sourcePoint" />
-            <mxPoint x="1423" y="723" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="94gPGVkHymrIeaveLkb0-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=0;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="1438" y="712.5" width="20" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="94gPGVkHymrIeaveLkb0-32" value="done=&lt;div&gt;(|(ictl_sbus_req))&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1354" y="764" width="94" height="59" as="geometry" />
+        <mxCell id="94gPGVkHymrIeaveLkb0-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="685" width="94" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
