@@ -628,8 +628,14 @@
         <mxCell id="p3arAd2dNybEQa-0GcAd-7" value="cntr==ictl_broadcast_delay&lt;div&gt;&amp;amp;（wctl_abus_slverr=1|&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;wctl_broadcast_slverr=1）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="375" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vb2nYMZU3FLJpC7cFpUO-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="vb2nYMZU3FLJpC7cFpUO-1" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="201" y="1636" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vb2nYMZU3FLJpC7cFpUO-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224" y="1805" as="sourcePoint" />
+            <mxPoint x="274" y="1755" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
