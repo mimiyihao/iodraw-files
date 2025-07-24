@@ -720,8 +720,8 @@
         <mxCell id="idSJFdqHgILGaAU6WQ-t-31" value="tx_fir_convert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="2010" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-32" value="iffsm_tx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="2130" width="76" height="40" as="geometry" />
+        <mxCell id="idSJFdqHgILGaAU6WQ-t-32" value="tx_fir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="2020" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
