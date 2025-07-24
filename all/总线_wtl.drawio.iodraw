@@ -741,10 +741,13 @@
             <mxPoint x="446.5" y="2110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="idSJFdqHgILGaAU6WQ-t-31">
+        <mxCell id="idSJFdqHgILGaAU6WQ-t-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="2030" as="sourcePoint" />
-            <mxPoint x="520" y="2030" as="targetPoint" />
+            <mxPoint x="470" y="2039.88" as="sourcePoint" />
+            <mxPoint x="550" y="2039.88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="2039.88" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="idSJFdqHgILGaAU6WQ-t-39" value="tx_level" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -776,14 +779,8 @@
         </mxCell>
         <mxCell id="idSJFdqHgILGaAU6WQ-t-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="573.94" y="2120" as="sourcePoint" />
-            <mxPoint x="573.94" y="2060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.691;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="601.06" y="2060" as="sourcePoint" />
-            <mxPoint x="602.06" y="2121" as="targetPoint" />
+            <mxPoint x="587.8800000000001" y="2120" as="sourcePoint" />
+            <mxPoint x="587.8800000000001" y="2060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="idSJFdqHgILGaAU6WQ-t-46" value="tx_lb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
