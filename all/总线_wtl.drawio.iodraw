@@ -804,8 +804,8 @@
         <mxCell id="idSJFdqHgILGaAU6WQ-t-52" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;fir_idle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="433.5" y="2060" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-53" value="level/&lt;div&gt;swing&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="2063" width="50" height="40" as="geometry" />
+        <mxCell id="idSJFdqHgILGaAU6WQ-t-53" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;level、&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;swing&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="576" y="2062" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
