@@ -909,7 +909,10 @@
           <mxGeometry x="550" y="2271" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="idSJFdqHgILGaAU6WQ-t-99" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;ulane_tx_reg&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="2240" width="67" height="41" as="geometry" />
+          <mxGeometry x="266" y="2510" width="67" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="idSJFdqHgILGaAU6WQ-t-101" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ulane_rx_reg&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="2240" width="67" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
