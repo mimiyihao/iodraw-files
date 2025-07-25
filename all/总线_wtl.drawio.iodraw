@@ -897,7 +897,7 @@
           <mxGeometry x="214" y="2309" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="idSJFdqHgILGaAU6WQ-t-95" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;req&lt;/font&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;req_num&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;pam_ctrl_cur/new&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;pam_cur/new&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;power_cur/new&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;rate_cur/new&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;width_cur/new&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="485.99020037873856" y="2284.1321900081934" width="70" height="110" as="geometry" />
+          <mxGeometry x="309.00020037873855" y="2274.0021900081933" width="70" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
