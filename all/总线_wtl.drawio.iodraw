@@ -998,9 +998,6 @@
             <mxPoint x="607" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-127" value="&lt;img alt=&quot;&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAaCAYAAADv/O9kAAABeUlEQVRYCe1VOw7CMAzlshyk9+AcXIOZrVOZWJjYjBxs92HIpwpFKgkSqpP49/xe0x01+ts1ips68NaY74x3xhuZwPpSvw5E10t6nCU+6QyLT8uAT3uis/zHoxS5EI0D0T1TswRUiU+mzNLjPHAGPZ3mvLeDMPjPwO9HovNhBm0Wg/YqkEFMw1MdKu8SNs3nNCsrKEwVxfs8cMnNZzdr5nUfSQIXb6YZZ3ZN2j7UMy7D8IUNlI+HdczH6stANDfvKyFMDvbICsWhQBk0vwxcGYISMVDgEphEheh9ws8AShi3GFijCjROc5n/u5EGHpU6J/rEeCVwX8/YBKABA6wZuCrhHV90Jw08gHOXGzcTCq0A3KQt/bJsc4z7YUWhvh5kgLOzvLsqI323+EhlFprzg5BCS6WOn85J7xhgOKR1a+0j9PhBddIKPgqAo/v/2D8CzgzB5w/tgotojXH/CPgardfl7MDr5re96M749jir67gzXje/7UU3y/gDsj7GhD1s2+AAAAAASUVORK5CYII=&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="331" y="2300" width="39" height="10" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
