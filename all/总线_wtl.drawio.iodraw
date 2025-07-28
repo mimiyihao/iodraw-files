@@ -1013,7 +1013,7 @@
         <mxCell id="idSJFdqHgILGaAU6WQ-t-130" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="449" y="2637" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-131" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="idSJFdqHgILGaAU6WQ-t-131" value="ictl_loopback_req=1&lt;div&gt;&amp;amp;ictl_isreset=0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="2650" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
