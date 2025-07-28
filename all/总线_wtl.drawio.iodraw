@@ -1052,10 +1052,13 @@
         <mxCell id="idSJFdqHgILGaAU6WQ-t-141" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="628" y="2849" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-142" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="idSJFdqHgILGaAU6WQ-t-142" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.549;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="idSJFdqHgILGaAU6WQ-t-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="673" y="2931" as="sourcePoint" />
             <mxPoint x="304" y="2927" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="672" y="2948" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
