@@ -1004,10 +1004,10 @@
         <mxCell id="idSJFdqHgILGaAU6WQ-t-128" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="2637" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="idSJFdqHgILGaAU6WQ-t-129" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="idSJFdqHgILGaAU6WQ-t-129" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.042;entryY=0.299;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="idSJFdqHgILGaAU6WQ-t-130">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="341" y="2678" as="sourcePoint" />
-            <mxPoint x="448" y="2678" as="targetPoint" />
+            <mxPoint x="336.5" y="2661" as="sourcePoint" />
+            <mxPoint x="443.5" y="2661" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="idSJFdqHgILGaAU6WQ-t-130" value="S_DOEN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
