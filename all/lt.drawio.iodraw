@@ -1019,12 +1019,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lRg1edA1O6qXP7tYZzAC" name="第 3 页">
-    <mxGraphModel dx="779" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="445" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t68uQ29ABBzuDpU9uRQX-1" value="S_INIT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="164" y="217" width="80" height="80" as="geometry" />
+          <mxGeometry x="170" y="217" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t68uQ29ABBzuDpU9uRQX-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
