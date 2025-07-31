@@ -154,14 +154,6 @@
             <mxPoint x="400" y="654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-84" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="400" y="635" width="80" height="40" as="geometry">
-            <mxRectangle x="80" y="300" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-85" value="i_prbs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5hxx7TOuMHt9GqfPNMU6-84" vertex="1">
-          <mxGeometry x="14" y="7" width="52" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-86" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="714" as="sourcePoint" />
@@ -497,10 +489,10 @@
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-192" value="&lt;font color=&quot;#0000ff&quot;&gt;ick_tx&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6" y="383" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-194" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.059;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" target="5hxx7TOuMHt9GqfPNMU6-84" edge="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-194" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.059;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="352" as="sourcePoint" />
-            <mxPoint x="404" y="490" as="targetPoint" />
+            <mxPoint x="404.72" y="634.5600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-195" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;" parent="1" edge="1">
