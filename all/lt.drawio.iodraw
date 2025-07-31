@@ -40,14 +40,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-13" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="430" width="80" height="40" as="geometry">
-            <mxRectangle x="80" y="300" width="50" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-14" value="i_lt_rx2tx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5hxx7TOuMHt9GqfPNMU6-13" vertex="1">
-          <mxGeometry x="7" y="7" width="67" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="360" as="sourcePoint" />
@@ -395,10 +387,10 @@
             <mxPoint x="209" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5hxx7TOuMHt9GqfPNMU6-180" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;entryX=0.371;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="5hxx7TOuMHt9GqfPNMU6-13" edge="1">
+        <mxCell id="5hxx7TOuMHt9GqfPNMU6-180" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;entryX=0.371;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="352" as="sourcePoint" />
-            <mxPoint x="311" y="428" as="targetPoint" />
+            <mxPoint x="309.67999999999984" y="429.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5hxx7TOuMHt9GqfPNMU6-181" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;entryX=0.371;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -610,6 +602,9 @@
         </mxCell>
         <mxCell id="dDzKTxblwlbcQ_La47cn-12" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;i_map_lt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="430" width="81" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dDzKTxblwlbcQ_La47cn-13" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;i_lt_rx2tx&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="489" width="81" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
