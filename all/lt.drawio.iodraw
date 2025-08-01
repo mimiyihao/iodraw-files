@@ -1085,10 +1085,10 @@
         <mxCell id="PslVfkvce_vQ0LDM2P2V-9" value="S_MTX_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="175" y="524" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PslVfkvce_vQ0LDM2P2V-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+        <mxCell id="PslVfkvce_vQ0LDM2P2V-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="306" y="555" as="sourcePoint" />
-            <mxPoint x="356" y="505" as="targetPoint" />
+            <mxPoint x="255" y="563.8" as="sourcePoint" />
+            <mxPoint x="335" y="563.6600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
