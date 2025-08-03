@@ -1181,6 +1181,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PslVfkvce_vQ0LDM2P2V-32" value="timer_running_s=1&lt;div&gt;&amp;amp;ictl_en=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="285" y="835" width="109" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
