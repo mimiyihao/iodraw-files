@@ -1124,6 +1124,18 @@
         <mxCell id="PslVfkvce_vQ0LDM2P2V-18" value="S_OFF" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="180" y="732" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PslVfkvce_vQ0LDM2P2V-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="262" y="771.8" as="sourcePoint" />
+            <mxPoint x="342" y="771.6600000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PslVfkvce_vQ0LDM2P2V-20" value="S_MTX_INIT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="342" y="732" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PslVfkvce_vQ0LDM2P2V-21" value="ictl_run=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="748" width="66" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
