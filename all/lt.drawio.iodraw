@@ -1148,7 +1148,7 @@
         <mxCell id="PslVfkvce_vQ0LDM2P2V-24" value="=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="690.5" y="603" width="31" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="PslVfkvce_vQ0LDM2P2V-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PslVfkvce_vQ0LDM2P2V-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.908;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PslVfkvce_vQ0LDM2P2V-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="418" y="799.14" as="sourcePoint" />
             <mxPoint x="498" y="799.0000000000001" as="targetPoint" />
@@ -1196,6 +1196,12 @@
         </mxCell>
         <mxCell id="PslVfkvce_vQ0LDM2P2V-34" value="timer_running_s=0&lt;div&gt;&amp;amp;timer_done_s=0&amp;amp;ictl_en=0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="289" y="702" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="PslVfkvce_vQ0LDM2P2V-35" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="368" y="877" as="sourcePoint" />
+            <mxPoint x="418" y="827" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
