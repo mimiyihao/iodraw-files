@@ -113,14 +113,20 @@
         <mxCell id="OR135fra5f4bA4aKPZ_8-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="773.5" y="466" as="sourcePoint" />
-            <mxPoint x="773.5" y="556" as="targetPoint" />
+            <mxPoint x="774" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-28" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OR135fra5f4bA4aKPZ_8-28" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=1&amp;amp;A=0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OR135fra5f4bA4aKPZ_8-29" value="(ictl_skip_coarse_nt | dir_change | (is_max &amp;amp; dir) | (is_min &amp;amp; ~dir) | (iter_cntr == iter_cntr_max))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="450" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OR135fra5f4bA4aKPZ_8-31" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=1&amp;amp;A=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="466" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OR135fra5f4bA4aKPZ_8-32" value="S_UPD_1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="734" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
