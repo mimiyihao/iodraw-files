@@ -227,11 +227,17 @@
         <mxCell id="OR135fra5f4bA4aKPZ_8-56" value="ictl_meas_ack=0&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;req=1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;is_done=1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ireg_chop_en_nt=1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;octl_chop=0&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="1020" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OR135fra5f4bA4aKPZ_8-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OR135fra5f4bA4aKPZ_8-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1130" y="930" as="sourcePoint" />
             <mxPoint x="1126" y="466" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="938" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OR135fra5f4bA4aKPZ_8-58" value="ictl_meas_ack=0&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;req=1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;is_done=1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ireg_chop_en_nt=1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;octl_chop=0&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1030" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
