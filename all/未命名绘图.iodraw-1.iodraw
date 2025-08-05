@@ -178,9 +178,12 @@
         </mxCell>
         <mxCell id="OR135fra5f4bA4aKPZ_8-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820" y="930" as="sourcePoint" />
-            <mxPoint x="900" y="930" as="targetPoint" />
+            <mxPoint x="814" y="937.66" as="sourcePoint" />
+            <mxPoint x="894" y="937.66" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OR135fra5f4bA4aKPZ_8-46" value="ictl_meas_ack=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="795" y="908" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
