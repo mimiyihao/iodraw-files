@@ -71,8 +71,8 @@
         <mxCell id="OR135fra5f4bA4aKPZ_8-16" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1078" y="386" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-17" value="cntr&amp;gt;=&lt;span style=&quot;background-color: initial;&quot;&gt;cntr_upd_3_max&amp;amp;req=0&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="234" width="190" height="30" as="geometry" />
+        <mxCell id="OR135fra5f4bA4aKPZ_8-17" value="cntr&amp;gt;=&lt;span style=&quot;background-color: initial;&quot;&gt;cntr_upd_3_max&amp;amp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ireg_load_only_nt=1&amp;amp;req=1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="325" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
