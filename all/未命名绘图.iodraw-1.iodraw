@@ -207,8 +207,8 @@
             <mxPoint x="934.5" y="818" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-51" value="ictl_meas_ack=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="832" width="110" height="30" as="geometry" />
+        <mxCell id="OR135fra5f4bA4aKPZ_8-51" value="ictl_meas_ack=1&lt;div&gt;&amp;amp;req=&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="827" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
