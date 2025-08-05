@@ -119,8 +119,8 @@
         <mxCell id="OR135fra5f4bA4aKPZ_8-28" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=1&amp;amp;A=0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="340" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-29" value="(ictl_skip_coarse_nt | dir_change | (is_max &amp;amp; dir) | (is_min &amp;amp; ~dir) | (iter_cntr == iter_cntr_max))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="180" width="530" height="30" as="geometry" />
+        <mxCell id="OR135fra5f4bA4aKPZ_8-29" value="A=(ictl_skip_coarse_nt | dir_change | (is_max &amp;amp; dir) | (is_min &amp;amp; ~dir) | (iter_cntr == iter_cntr_max))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="180" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OR135fra5f4bA4aKPZ_8-31" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=1&amp;amp;A=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="466" width="110" height="40" as="geometry" />
