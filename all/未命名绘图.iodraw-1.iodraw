@@ -324,6 +324,12 @@
         <mxCell id="OR135fra5f4bA4aKPZ_8-86" value="freq_measure_req_sync=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="618" y="1331" width="161" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="OR135fra5f4bA4aKPZ_8-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="1471" as="sourcePoint" />
+            <mxPoint x="785" y="1421" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
