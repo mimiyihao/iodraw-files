@@ -224,6 +224,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OR135fra5f4bA4aKPZ_8-56" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=1&lt;/div&gt;&lt;div&gt;&amp;amp;is_done=1&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ireg_chop_en_nt=1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;octl_chop=1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="934" y="830" width="130" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
