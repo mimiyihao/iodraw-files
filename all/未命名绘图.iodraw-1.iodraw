@@ -116,7 +116,7 @@
             <mxPoint x="773.5" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-28" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OR135fra5f4bA4aKPZ_8-28" value="ictl_meas_ack=0&lt;div&gt;&amp;amp;req=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OR135fra5f4bA4aKPZ_8-29" value="(ictl_skip_coarse_nt | dir_change | (is_max &amp;amp; dir) | (is_min &amp;amp; ~dir) | (iter_cntr == iter_cntr_max))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
