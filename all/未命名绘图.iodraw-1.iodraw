@@ -252,7 +252,7 @@
         <mxCell id="OR135fra5f4bA4aKPZ_8-60" value="ictl_meas_ack=0&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;req=1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;is_done=0&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="821" y="857" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.038;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OR135fra5f4bA4aKPZ_8-63">
+        <mxCell id="OR135fra5f4bA4aKPZ_8-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OR135fra5f4bA4aKPZ_8-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="935" y="752" as="sourcePoint" />
             <mxPoint x="930" y="700" as="targetPoint" />
@@ -262,7 +262,7 @@
           <mxGeometry x="895" y="620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OR135fra5f4bA4aKPZ_8-63" value="cntr&amp;gt;=&lt;div&gt;cntr_upd_1_max&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="700" width="110" height="40" as="geometry" />
+          <mxGeometry x="929" y="710" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
