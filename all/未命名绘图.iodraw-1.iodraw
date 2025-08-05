@@ -318,8 +318,8 @@
             <mxPoint x="778" y="1356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="786" y="1316" width="80" height="80" as="geometry" />
+        <mxCell id="OR135fra5f4bA4aKPZ_8-85" value="S_COUNT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="779" y="1316" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OR135fra5f4bA4aKPZ_8-86" value="freq_measure_req_sync=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="618" y="1331" width="161" height="26" as="geometry" />
