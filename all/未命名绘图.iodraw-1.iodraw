@@ -330,8 +330,8 @@
             <mxPoint x="821" y="1517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="815" y="1437" width="40" height="26" as="geometry" />
+        <mxCell id="OR135fra5f4bA4aKPZ_8-88" value="ref_counter&amp;gt;=&lt;div&gt;timing_window_shift&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="773" y="1430" width="125" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
