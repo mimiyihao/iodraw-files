@@ -569,7 +569,13 @@
           <mxGeometry x="736" y="2624" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eeRSfiz-hmX4yHC68YU6-42" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="545" y="2305" width="80" height="80" as="geometry" />
+          <mxGeometry x="548" y="2624" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="726" y="2755" as="sourcePoint" />
+            <mxPoint x="776" y="2705" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
