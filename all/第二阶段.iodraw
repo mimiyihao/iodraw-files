@@ -426,6 +426,9 @@
             <mxPoint x="855" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-3" value="meas_req_cal=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="737" y="1953" width="108" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
