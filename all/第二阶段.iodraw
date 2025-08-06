@@ -504,7 +504,7 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-25" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;S_UNLOCK_MEAS_F&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="935" y="2463" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eeRSfiz-hmX4yHC68YU6-18">
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.65;exitY=0.009;exitDx=0;exitDy=0;entryX=0.048;entryY=0.684;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="eeRSfiz-hmX4yHC68YU6-18" target="eeRSfiz-hmX4yHC68YU6-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="897" y="2425" as="sourcePoint" />
             <mxPoint x="947" y="2375" as="targetPoint" />
