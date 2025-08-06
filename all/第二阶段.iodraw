@@ -590,8 +590,8 @@
             <mxPoint x="385" y="2650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-47" value="freeze=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1018" y="2643" width="66" height="27" as="geometry" />
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-47" value="freeze=0&lt;div&gt;&amp;amp;meas_ack=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="641" y="2620" width="95" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
