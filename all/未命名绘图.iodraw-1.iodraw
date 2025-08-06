@@ -408,8 +408,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OR135fra5f4bA4aKPZ_8-105" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="809" y="1743" width="41" height="27" as="geometry" />
+        <mxCell id="OR135fra5f4bA4aKPZ_8-105" value="freq_measure_result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1743" width="129" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
