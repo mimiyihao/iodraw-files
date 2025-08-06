@@ -637,8 +637,8 @@
             <mxPoint x="746" y="2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="634" y="2416" width="41" height="27" as="geometry" />
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-58" value="ireg_ppm_lock_detect_recover_en_nt=1&lt;div&gt;&amp;amp;cntr=cntr_fail_delay_max&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="479" y="2407" width="233" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
