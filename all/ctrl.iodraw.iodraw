@@ -746,7 +746,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="背景" id="191">
-          <mxCell style="vsdxID=7206;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#ffc000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
+          <mxCell style="vsdxID=7206;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;strokeWidth=3;strokeColor=default;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="539" y="124" as="sourcePoint" />
               <mxPoint x="539" y="680" as="targetPoint" />
@@ -754,7 +754,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="背景" id="192">
-          <mxCell style="vsdxID=7212;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#ffc000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
+          <mxCell style="vsdxID=7212;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;strokeWidth=3;strokeColor=default;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="2039" y="295" as="sourcePoint" />
               <mxPoint x="2039" y="506" as="targetPoint" />
@@ -868,7 +868,7 @@
           <mxGeometry x="2039" y="295" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="102">
-          <mxCell style="vsdxID=7213;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#ffc000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="100" target="101" edge="1">
+          <mxCell style="vsdxID=7213;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;strokeWidth=3;strokeColor=default;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="100" target="101" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
             </mxGeometry>
@@ -881,7 +881,7 @@
           <mxGeometry x="2039" y="506" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="105">
-          <mxCell style="vsdxID=7211;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#ffc000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="103" target="104" edge="1">
+          <mxCell style="vsdxID=7211;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;strokeWidth=3;strokeColor=default;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="103" target="104" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
@@ -892,7 +892,7 @@
           <mxGeometry x="1039" y="295" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="108">
-          <mxCell style="vsdxID=7209;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#ffc000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="106" target="107" edge="1">
+          <mxCell style="vsdxID=7209;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;strokeWidth=3;strokeColor=default;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="106" target="107" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
@@ -916,7 +916,7 @@
           <mxGeometry x="1039" y="684" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="114">
-          <mxCell style="vsdxID=7207;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#ffc000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="112" target="113" edge="1">
+          <mxCell style="vsdxID=7207;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;strokeWidth=3;strokeColor=default;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="112" target="113" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
             </mxGeometry>
@@ -929,7 +929,7 @@
           <mxGeometry x="1039" y="128" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="117">
-          <mxCell style="vsdxID=7205;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#ffc000;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="115" target="116" edge="1">
+          <mxCell style="vsdxID=7205;dashed=1;dashPattern=12.00 6.00;startArrow=none;endArrow=block;strokeWidth=3;strokeColor=default;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;" parent="1" source="115" target="116" edge="1">
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </UserObject>
