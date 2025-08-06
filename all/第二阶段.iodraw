@@ -453,7 +453,7 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-9" value="meas_req_cal=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="676" y="2037" width="108" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-10" value="S_IDLE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="544" y="2304" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eeRSfiz-hmX4yHC68YU6-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
