@@ -525,11 +525,14 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="975" y="2542" as="sourcePoint" />
-            <mxPoint x="975" y="2680.222222222222" as="targetPoint" />
+            <mxPoint x="975" y="2624" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eeRSfiz-hmX4yHC68YU6-32" value="freeze=0&amp;amp;meas_ack=0&lt;div&gt;&amp;amp;meas_running=0&lt;/div&gt;&lt;div&gt;&amp;amp;meas_ok=1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="902" y="2571" width="142" height="56" as="geometry" />
+          <mxGeometry x="903" y="2552" width="142" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="937" y="2624" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
