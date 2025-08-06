@@ -432,6 +432,9 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-4" value="S_MEAS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="855" y="1940" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="761" y="2070" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
