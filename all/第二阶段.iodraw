@@ -631,11 +631,14 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-56" value="freeze=0&amp;amp;meas_ack=0&lt;div&gt;&amp;amp;meas_running=0&lt;/div&gt;&lt;div&gt;&amp;amp;meas_ok=0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="493" y="2559" width="142" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eeRSfiz-hmX4yHC68YU6-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="696" y="2420" as="sourcePoint" />
             <mxPoint x="746" y="2370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="634" y="2416" width="41" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
