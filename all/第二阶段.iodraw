@@ -492,15 +492,6 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-19" value="cntr=&lt;div&gt;cntr_init_delay_max&lt;/div&gt;&lt;div&gt;&amp;amp;freeze=0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="717" y="2391" width="126" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eeRSfiz-hmX4yHC68YU6-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="902" y="2429" as="sourcePoint" />
-            <mxPoint x="952" y="2379" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="952" y="2475" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eeRSfiz-hmX4yHC68YU6-23" value="freeze=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="859" y="2437" width="66" height="27" as="geometry" />
         </mxCell>
@@ -511,7 +502,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eeRSfiz-hmX4yHC68YU6-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="931" y="2473" width="80" height="80" as="geometry" />
+          <mxGeometry x="935" y="2463" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
