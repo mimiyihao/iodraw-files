@@ -725,8 +725,8 @@
             <mxPoint x="744.66" y="3387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="706" y="3387" width="80" height="80" as="geometry" />
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-80" value="S_CAPTURE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="706" y="3386" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
