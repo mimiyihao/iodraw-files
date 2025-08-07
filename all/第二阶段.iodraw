@@ -673,11 +673,26 @@
             <mxPoint x="727" y="3051" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-67" value="S_MEAS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="728" y="3012" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-68" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="664" y="3029" width="39" height="26" as="geometry" />
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-68" value="start=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="657" y="3029" width="53" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-69" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.474;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.881;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eeRSfiz-hmX4yHC68YU6-67" target="eeRSfiz-hmX4yHC68YU6-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="764" y="3093" as="sourcePoint" />
+            <mxPoint x="724" y="3136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-70" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="651" y="3122" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-71" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eeRSfiz-hmX4yHC68YU6-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="566" y="3141" as="sourcePoint" />
+            <mxPoint x="616" y="3091" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
