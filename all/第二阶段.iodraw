@@ -728,8 +728,8 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-80" value="S_CAPTURE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="706" y="3379" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="734" y="3329" width="39" height="26" as="geometry" />
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-82" value="cntr_ismax=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="711" y="3329" width="85" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
