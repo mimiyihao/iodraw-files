@@ -731,14 +731,14 @@
         <mxCell id="eeRSfiz-hmX4yHC68YU6-82" value="cntr_ismax=1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="711" y="3329" width="85" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="eeRSfiz-hmX4yHC68YU6-83" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+        <mxCell id="eeRSfiz-hmX4yHC68YU6-83" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=1.025;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eeRSfiz-hmX4yHC68YU6-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="706" y="3420" as="sourcePoint" />
             <mxPoint x="646" y="3420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eeRSfiz-hmX4yHC68YU6-84" value="S_DONE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3380" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="3379" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
