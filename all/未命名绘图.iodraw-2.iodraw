@@ -415,7 +415,7 @@
             <mxPoint x="1003" y="501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3T0X3NwdTMOuaga6FapM-119" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;addr、wdata、wr直接与sbus_lane输出做或运算，而greq和req先MUX选择再或运算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3T0X3NwdTMOuaga6FapM-119" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;addr、wdata、wr直接与sbus_lane输出做或运算，而greq和req先MUX选择再或运算&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1004" y="623" width="50" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3T0X3NwdTMOuaga6FapM-119">
