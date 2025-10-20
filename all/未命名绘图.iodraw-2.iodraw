@@ -223,15 +223,6 @@
         <mxCell id="3T0X3NwdTMOuaga6FapM-63" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;sbus_lane&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="463" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="3T0X3NwdTMOuaga6FapM-64" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;输入与csr_lane_ctrl的输出做或运算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1004" y="490" width="50" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="3T0X3NwdTMOuaga6FapM-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="3T0X3NwdTMOuaga6FapM-64">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="945" y="501" as="sourcePoint" />
-            <mxPoint x="1003" y="502" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.888;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1029" y="332" as="sourcePoint" />
@@ -416,12 +407,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-117" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;addr、wdata、wr直接与sbus_lane输出做或运算，而greq和req先MUX选择再或运算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1122" y="755" width="50" height="55" as="geometry" />
+          <mxGeometry x="1141" y="578" width="50" height="55" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-118" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3T0X3NwdTMOuaga6FapM-117">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1063" y="776" as="sourcePoint" />
-            <mxPoint x="1121" y="776" as="targetPoint" />
+            <mxPoint x="1082" y="599" as="sourcePoint" />
+            <mxPoint x="1140" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3T0X3NwdTMOuaga6FapM-119" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;addr、wdata、wr直接与sbus_lane输出做或运算，而greq和req先MUX选择再或运算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1142" y="579" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3T0X3NwdTMOuaga6FapM-120" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3T0X3NwdTMOuaga6FapM-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1083" y="600" as="sourcePoint" />
+            <mxPoint x="1141" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
