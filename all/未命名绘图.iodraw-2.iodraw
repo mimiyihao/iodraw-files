@@ -175,6 +175,9 @@
         <mxCell id="3T0X3NwdTMOuaga6FapM-50" value="ack&lt;div&gt;rdata&lt;/div&gt;&lt;div&gt;slverr&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="508" y="888" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3T0X3NwdTMOuaga6FapM-52" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="573" y="979" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
