@@ -341,7 +341,7 @@
           <mxGeometry x="897" y="945" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-92" value="[7:0]ack、&lt;div&gt;[7:0]grant、&lt;/div&gt;&lt;div&gt;[31:0]rdata&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="758" y="399" width="120" height="56" as="geometry" />
+          <mxGeometry x="765" y="394" width="72" height="56" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.888;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3T0X3NwdTMOuaga6FapM-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
