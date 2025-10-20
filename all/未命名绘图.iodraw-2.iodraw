@@ -332,13 +332,13 @@
           <mxGeometry x="892" y="525" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-89" value="lane1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="893" y="662" width="60" height="30" as="geometry" />
+          <mxGeometry x="893" y="675" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-90" value="lane2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="893" y="803" width="60" height="30" as="geometry" />
+          <mxGeometry x="893" y="816" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-91" value="lane3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="897" y="945" width="60" height="30" as="geometry" />
+          <mxGeometry x="896" y="953" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-92" value="[7:0]ack、&lt;div&gt;[7:0]grant、&lt;/div&gt;&lt;div&gt;[31:0]rdata&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="765" y="392" width="72" height="56" as="geometry" />
