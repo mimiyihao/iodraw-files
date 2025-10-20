@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Yzw4mvW2WVQazDxkDHoC">
-    <mxGraphModel dx="270" dy="158" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="557" dy="325" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,15 +253,6 @@
         <mxCell id="3T0X3NwdTMOuaga6FapM-70" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;sbus_lane&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="606" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="3T0X3NwdTMOuaga6FapM-71" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;输入与csr_lane_ctrl的输出做或运算&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1004" y="632" width="50" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="3T0X3NwdTMOuaga6FapM-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="3T0X3NwdTMOuaga6FapM-71">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="945" y="643" as="sourcePoint" />
-            <mxPoint x="1003" y="644" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3T0X3NwdTMOuaga6FapM-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="799" y="735" width="260" height="112" as="geometry" />
         </mxCell>
@@ -334,9 +325,9 @@
         <mxCell id="3T0X3NwdTMOuaga6FapM-92" value="[7:0]ack、&lt;div&gt;[7:0]grant、&lt;/div&gt;&lt;div&gt;[31:0]rdata&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="765" y="392" width="72" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="3T0X3NwdTMOuaga6FapM-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.888;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="3T0X3NwdTMOuaga6FapM-71">
+        <mxCell id="3T0X3NwdTMOuaga6FapM-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.888;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1028.83" y="624" as="sourcePoint" />
+            <mxPoint x="1029" y="632" as="sourcePoint" />
             <mxPoint x="1028.83" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
