@@ -13,8 +13,8 @@
             <mxPoint x="400" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3T0X3NwdTMOuaga6FapM-4" value="dbe_cmn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="290" width="280" height="110" as="geometry" />
+        <mxCell id="3T0X3NwdTMOuaga6FapM-4" value="lane0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
